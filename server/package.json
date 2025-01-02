@@ -1,5 +1,5 @@
 {
-  "name": "advanced-task-management-api",
+  "name": "advanced-task-management-api by Harshdeep Khartade",
   "version": "1.0.0",
   "description": "An advanced task management API with JWT authentication, MongoDB, and Swagger documentation.",
   "main": "server.js",
