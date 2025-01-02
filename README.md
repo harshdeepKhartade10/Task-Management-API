@@ -10,9 +10,10 @@ Node.js
 MongoDB 
 
 Environment Variables:
-MONGO_URI: MongoDB connection string
-JWT_SECRET: Secret key for JWT token
-PORT: Port number (default: 5000)
+MONGO_URI: MongoDB connection string.
+JWT_SECRET: Secret key for JWT token.
+PORT: Port number (default: 5000).
+LOG_FILE= logs/app.log
 
 Installation
 Clone the repository.
